@@ -1,0 +1,2 @@
+xampp or wamp (Apache Server & MySQL databse)
+browser
